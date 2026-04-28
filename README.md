@@ -9,3 +9,8 @@ I'm a WebSecOps Engineer with 10+ years working across web development, server i
 
 I enjoy solving practical problems and keeping systems stable, fast, and secure. Still learning every day.
 Always happy to share what I know, and grateful for the knowledge shared here by others.
+
+Check out some of my work and platforms: [VMCSoft Digital][1] | [ViWeb Technology][2]
+
+  [1]: https://vmcsoft.com/
+  [2]: https://viweb.net/
