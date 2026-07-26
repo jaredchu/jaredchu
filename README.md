@@ -2,13 +2,7 @@
 ```bash
 docker-compose up
 ```
-I'm a WebSecOps Engineer with 10+ years working across web development, server infrastructure, and website security. Most of my work involves:
-- Building and maintaining websites (Magento, WordPress, custom stacks)
-- Securing servers, cleaning up hacked sites
-- Automating deployment and monitoring with Docker, AWS, and CI/CD tools
-
-I enjoy solving practical problems and keeping systems stable, fast, and secure. Still learning every day.
-Always happy to share what I know, and grateful for the knowledge shared here by others.
+WebSecOps engineer, product builder, and software company operator with 10+ years across web development, server infrastructure, and website security. I run VMCSoft Digital and lead portfolio offerings across web operations, cybersecurity, backup, DNS/network utilities, firewall list publishing, security scanning, and Vietnam-focused business tools. My work combines hands-on engineering with product direction: keeping systems stable, secure, maintainable, and useful for real operations.
 
 Check out some of my work and platforms: [VMCSoft Digital][1] | [ViWeb Technology][2]
 
