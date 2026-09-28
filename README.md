@@ -16,6 +16,11 @@ Selected self-initiated work:
 
 See my [professional profile](https://cv.jaredchu.com/) and [Replit service](https://contra.com/s/oqNqkXoe-build-debug-and-deploy-your-replit-application) for context and scope.
 
+### Writing and experiments
+
+- [Context Docs](https://github.com/jaredchu/context-docs) — an experimental open-source Markdown convention and reusable agent skill for project continuity. The public evaluation notes document its limits.
+- [Testing AI outage decisions one fact at a time](https://dev.to/jaredchuvn/three-perfect-scores-werent-enough-testing-ai-outage-decisions-one-fact-at-a-time-1ffb) — an AI-assisted experiment with fictional incidents, paired scenarios and reproducible scoring. Includes public Kaggle evidence; not a production-safety certification.
+
 Check out some of my work and platforms: [VMCSoft Digital][1] | [ViWeb Technology][2]
 
   [1]: https://vmcsoft.com/
