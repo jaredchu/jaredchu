@@ -2,7 +2,14 @@
 ```bash
 docker-compose up
 ```
-WebSecOps engineer, product builder, and software company operator with 10+ years across web development, server infrastructure, and website security. I run VMCSoft Digital and lead portfolio offerings across web operations, cybersecurity, backup, DNS/network utilities, firewall list publishing, security scanning, and Vietnam-focused business tools. My work combines hands-on engineering with product direction: keeping systems stable, secure, maintainable, and useful for real operations.
+I build, secure and operate web systems, combining hands-on engineering with responsibility after launch. My career began in June 2011: 15+ years spanning web development, infrastructure and website security. Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology.
+
+### Selected proof
+
+- [Anonymous server recovery](https://cv.jaredchu.com/#server-recovery): recovered 30+ client websites within an eight-hour recovery window, with no known data loss after restoring S3 backups and reconciling newer updates.
+- [Anonymous AI support system](https://cv.jaredchu.com/#ai-support): designed, built, deployed and operate a Cloudflare-based system integrated with LiveChat.com, with knowledge retrieval and human handoff. Flexible model selection; Gemini evaluated first in depth.
+- [AeroDNS](https://play.google.com/store/apps/details?id=com.vmcsoft.aerodns): open-source Android DNS utility with 5K+ downloads on Google Play (as of October 2026).
+
 
 ### Replit development and deployment
 
