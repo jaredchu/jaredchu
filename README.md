@@ -7,7 +7,7 @@ I build, secure and operate web systems, combining hands-on engineering with res
 ### Selected proof
 
 - [Anonymous server recovery](https://cv.jaredchu.com/#server-recovery): recovered 30+ client websites within an eight-hour recovery window, with no known data loss after restoring S3 backups and reconciling newer updates.
-- [Anonymous AI support system](https://cv.jaredchu.com/#ai-support): designed, built, deployed and operate a Cloudflare-based system integrated with LiveChat.com, with knowledge retrieval and human handoff. Flexible model selection; Gemini evaluated first in depth.
+- [Anonymous AI support system](https://cv.jaredchu.com/#ai-support): designed, built, deployed and operate a Cloudflare-based system integrated with LiveChat.com, with knowledge retrieval and human handoff. Flexible model selection; Gemini evaluated first in depth. Handles approximately 1,000 conversations per month, resolves 30% without human handoff, and delivers a 90% faster first response.
 - [AeroDNS](https://play.google.com/store/apps/details?id=com.vmcsoft.aerodns): open-source Android DNS utility with 5K+ downloads on Google Play (as of October 2026).
 
 
