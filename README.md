@@ -2,7 +2,7 @@
 ```bash
 docker-compose up
 ```
-I build, secure and operate web systems, combining hands-on engineering with responsibility after launch. My career began in June 2011: 15+ years spanning web development, infrastructure and website security. Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology.
+I build, secure and operate web systems, combining hands-on engineering with responsibility after launch. My career began in June 2011: 15+ years spanning web development, infrastructure and website security. Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology. ViWeb Technology is the web services line of VMCSoft Digital.
 
 ### Selected proof
 
