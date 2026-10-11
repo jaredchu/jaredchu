@@ -11,22 +11,12 @@ I build, secure and operate web systems, combining hands-on engineering with res
 - [AeroDNS](https://play.google.com/store/apps/details?id=com.vmcsoft.aerodns): open-source Android DNS utility with 5K+ downloads on Google Play (as of October 2026).
 
 
-### Replit development and deployment
-
-[Replit Expert on Contra](https://contra.com/jaredchu/). I build and troubleshoot Replit applications, including dependency repair, testing, deployment debugging, and production-readiness reviews.
-
-Selected self-initiated work:
-
-- [AgencyDesk](https://agency-desk.replit.app/) — a React, TypeScript, Express and PostgreSQL agency/client workflow demo. Fictional data; payments and notifications are simulated.
-- [DNS Change Planner](https://dns-change-planner.replit.app/) — DNS change planning and validation with operational runbooks; it does not change live DNS.
-- [Production Readiness Auditor](https://replit-production-readiness-auditor--jaredchu.replit.app/) — a bounded application-readiness review tool, not a security certification.
-
-See my [professional profile](https://cv.jaredchu.com/) and [Replit service](https://contra.com/s/oqNqkXoe-build-debug-and-deploy-your-replit-application) for context and scope.
-
 ### Writing and experiments
 
 - [Context Docs](https://context-docs.com/): an experimental open-source Markdown convention and reusable agent skill for project continuity. The public evaluation notes document its limits. [GitHub source](https://github.com/jaredchu/context-docs).
 - [Testing AI outage decisions one fact at a time](https://dev.to/jaredchuvn/three-perfect-scores-werent-enough-testing-ai-outage-decisions-one-fact-at-a-time-1ffb) — an AI-assisted experiment with fictional incidents, paired scenarios and reproducible scoring. Includes public Kaggle evidence; not a production-safety certification.
+
+Additional recognition: [Replit Expert on Contra](https://contra.com/jaredchu/). [Small sample apps](https://cv.jaredchu.com/#replit-work) are self-initiated demos, separate from client work.
 
 Check out some of my work and platforms: [VMCSoft Digital][1] | [ViWeb Technology][2]
 
