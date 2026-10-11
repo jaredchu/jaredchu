@@ -4,6 +4,8 @@ docker-compose up
 ```
 I build, secure and operate web systems, combining hands-on engineering with responsibility after launch. My career began in June 2011: 15+ years spanning web development, infrastructure and website security. Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology. ViWeb Technology is the web services line of VMCSoft Digital.
 
+Through iCreationsLab, I am responsible for infrastructure architecture, security and complex troubleshooting across 20+ servers supporting an estimated 200+ websites. This includes website support for Kuok Group, NHG Health and Singapore Heart Foundation, working with the team handling day-to-day operations.
+
 ### Selected proof
 
 - [Anonymous server recovery](https://cv.jaredchu.com/#server-recovery): recovered 30+ client websites within an eight-hour recovery window, with no known data loss after restoring S3 backups and reconciling newer updates.
