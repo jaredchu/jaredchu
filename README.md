@@ -4,6 +4,8 @@ docker-compose up
 ```
 I build, secure and operate web systems, combining hands-on engineering with responsibility after launch. My career began in June 2011: 15+ years spanning web development, infrastructure and website security. Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology. ViWeb Technology is the web services line of VMCSoft Digital.
 
+At ViWeb Technology, I manage 3 web servers, including 2 supporting 10 websites for Vietnam Dragon Travel, covering maintenance, security and backups. I also manage additional servers for Pacific Wise.
+
 Through iCreationsLab, I am responsible for infrastructure architecture, security and complex troubleshooting across 20+ servers supporting an estimated 200+ websites. This includes website support for Kuok Group, NHG Health and Singapore Heart Foundation, working with the team handling day-to-day operations.
 
 ### Selected proof
