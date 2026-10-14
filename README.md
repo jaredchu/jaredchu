@@ -1,21 +1,22 @@
-#### Less Talk. More Work. 🎯
-```bash
-docker-compose up
-```
-I build, secure and operate web systems, combining hands-on engineering with responsibility after launch. My career began in June 2011: 15+ years spanning web development, infrastructure and website security. Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology. ViWeb Technology is the web services line of VMCSoft Digital.
+# Jared Chu
 
-Available for part-time, fractional and project-based engineering.
+**WebSecOps Engineer & Software Builder**
+
+I work on web development, website security and Linux infrastructure, with 15+ years of experience since June 2011. My work includes troubleshooting, integrations, maintenance and recovery for WordPress, Magento and custom applications. I am Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology, its web services line, and work part-time with iCreationsLab.
+
+Open to freelance, part-time and fractional engineering work. Scope, weekly hours and start date are agreed per engagement.
 
 At ViWeb Technology, I manage 3 web servers, including 2 supporting 10 websites for Vietnam Dragon Travel, covering maintenance, security and backups. I also manage additional servers for Pacific Wise.
 
-Through iCreationsLab, I am responsible for infrastructure architecture, security and complex troubleshooting across 20+ servers supporting an estimated 200+ websites. This includes website support for Kuok Group, NHG Health and Singapore Heart Foundation, working with the team handling day-to-day operations.
+I work part-time with iCreationsLab on infrastructure architecture, security and complex troubleshooting across 20+ servers supporting an estimated 200+ websites. I work with the team handling day-to-day operations. Through iCreationsLab, I support websites for organizations including Kuok Group, NHG Health and Singapore Heart Foundation.
 
-### Selected proof
+### Selected work
 
-- [Anonymous server recovery](https://cv.jaredchu.com/#server-recovery): recovered 30+ client websites within an eight-hour recovery window, with no known data loss after restoring S3 backups and reconciling newer updates.
-- [Anonymous AI support system](https://cv.jaredchu.com/#ai-support): designed, built, deployed and operate a Cloudflare-based system integrated with LiveChat.com, with knowledge retrieval and human handoff. Flexible model selection; Gemini evaluated first in depth. Handles approximately 1,000 conversations per month, resolves 30% without human handoff, and delivers a 90% faster first useful response.
+- [Anonymous server recovery](https://cv.jaredchu.com/#server-recovery): Investigated and recovered a compromised server hosting 30+ client websites. Services returned to normal within an eight-hour recovery window, with no known data loss after restoring S3 backups and reconciling newer updates.
+- [Anonymous AI support integration](https://cv.jaredchu.com/#ai-support): Designed and implemented an AI first-line support integration with LiveChat.com, deployed its runtime on Cloudflare and handle ongoing operation, including knowledge retrieval and human handoff. Operator-reported estimates: approximately 1,000 conversations per month, with 30% resolved without human handoff.
 - [AeroDNS](https://play.google.com/store/apps/details?id=com.vmcsoft.aerodns): open-source Android DNS utility with 5K+ downloads on Google Play (as of October 2026).
 
+Selected small tools: AeroDNS, HeaderSec, ListIPs, Pingeko and DiagEZ, included as examples of my development and maintenance work.
 
 ### Writing and experiments
 
