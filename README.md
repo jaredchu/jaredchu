@@ -2,13 +2,13 @@
 
 **WebSecOps Engineer & Software Builder**
 
-I work on web development, website security and Linux infrastructure, with 15+ years of experience since June 2011. My work includes troubleshooting, integrations, maintenance and recovery for WordPress, Magento and custom applications. I am Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology, its web services line, and work part-time with iCreationsLab.
+I work on web development, website security and Linux infrastructure, with 15+ years of experience since June 2011. My work includes troubleshooting, integrations, maintenance and recovery for WordPress, Magento and custom applications. I am Founder of VMCSoft Digital and Lead Engineer at ViWeb Technology, its web services line.
 
 Open to freelance, part-time and fractional engineering work. Scope, weekly hours and start date are agreed per engagement.
 
 At ViWeb Technology, I manage 3 web servers, including 2 supporting 10 websites for Vietnam Dragon Travel, covering maintenance, security and backups. I also manage additional servers for Pacific Wise.
 
-I work part-time with iCreationsLab on infrastructure architecture, security and complex troubleshooting across 20+ servers supporting an estimated 200+ websites. I work with the team handling day-to-day operations. Through iCreationsLab, I support websites for organizations including Kuok Group, NHG Health and Singapore Heart Foundation.
+From July 2023 to October 2026, I worked part-time with iCreationsLab on infrastructure architecture, security and complex troubleshooting across 20+ servers supporting an estimated 200+ websites. I worked with the team handling day-to-day operations. Through iCreationsLab, I supported websites for organizations including Kuok Group, NHG Health and Singapore Heart Foundation.
 
 ### Selected work
 
